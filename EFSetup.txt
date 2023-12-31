@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoomClient/DQ/main/Autostart.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoomClient/DQ/main/CreateLobbySoloLobby1.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoomClient/DQ/main/PathfindingEF2.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoomClient/DQ/main/Speed.txt"))()
